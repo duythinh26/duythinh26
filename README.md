@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy Thinh</h1>
-<h3 align="center">A fresher frontend developer from Vietnam</h3>
+<h3 align="center">A web developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duythinh26&label=Profile%20views&color=0e75b6&style=flat" alt="duythinh26" /> </p>
 
